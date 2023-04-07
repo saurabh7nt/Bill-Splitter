@@ -1,0 +1,12 @@
+div{
+    margin-top: 200px;
+    /* border: 2px solid;  */
+    text-align: center;
+}
+input{
+    width: 200px;
+    height: 30px;
+}
+body{
+    background-color: lightcyan;
+}
